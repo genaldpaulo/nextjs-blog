@@ -28,10 +28,10 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
 
         <p>Hello, I’m Gen. I’m a software engineer and I speak {' '}
-          (English/Tagalog/Ilocano). You can contact me on <a href="https://www.instagram.com/genaldpaulo/"></a> Instagram.</p>
+          (English/Tagalog/Ilocano). You can contact me on <a href="https://www.instagram.com/genaldpaulo/">Instagram. </a> </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://nextjs.org/learn"> Next.js tutorial</a>.)
         </p>
       </section>
 
